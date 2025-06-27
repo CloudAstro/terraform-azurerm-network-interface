@@ -1,0 +1,5 @@
+examples/
+*.tf
+*.md
+.release-please-manifest.json
+!CONTRIBUTING.md
